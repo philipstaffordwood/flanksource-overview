@@ -33,3 +33,12 @@ These are "organisational":
 * [**vsphere-lab**](https://github.com/flanksource/vsphere-lab)
 
 [**karina-dashboard**](https://github.com/flanksource/karina-dashboard) is brand new...
+
+# Rough Complexity Estimate/Ranking
+
+* [Gocity map for platform-cli](https://go-city.github.io/#/github.com/flanksource/platform-cli)
+* [Gocity map for canary-checker](https://go-city.github.io/#/github.com/flanksource/canary-checker)
+* [Gocity map for platform-operator](https://go-city.github.io/#/github.com/flanksource/platform-operator)
+* [Gocity map for konfigadm](https://go-city.github.io/#github.com/flanksource/konfigadm)
+
+
