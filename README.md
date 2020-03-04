@@ -34,11 +34,11 @@ These are "organisational":
 
 [**karina-dashboard**](https://github.com/flanksource/karina-dashboard) is brand new...
 
-# Rough Complexity Estimate/Ranking
-
-* [Gocity map for platform-cli](https://go-city.github.io/#/github.com/flanksource/platform-cli)
-* [Gocity map for canary-checker](https://go-city.github.io/#/github.com/flanksource/canary-checker)
-* [Gocity map for platform-operator](https://go-city.github.io/#/github.com/flanksource/platform-operator)
+# Rough Complexity Estimate/Ranking (high to low)
 * [Gocity map for konfigadm](https://go-city.github.io/#github.com/flanksource/konfigadm)
+* [Gocity map for platform-cli](https://go-city.github.io/#/github.com/flanksource/platform-cli)
+* [Gocity map for platform-operator](https://go-city.github.io/#/github.com/flanksource/platform-operator)
+* [Gocity map for canary-checker](https://go-city.github.io/#/github.com/flanksource/canary-checker)
+
 
 
