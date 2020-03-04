@@ -2,11 +2,15 @@
 
 Your core projects seem to be:
 * [platform-cli (soon karina)](https://github.com/flanksource/platform-cli) (this looks like the flagship project and the company workhorse)
+  Platform management toolset
 * [canary-checker](https://github.com/flanksource/canary-checker)
+  Runs in cluster and checks health.
 * [platform-operator](https://github.com/flanksource/platform-operator)
+  Operator that enforces certain constraints in a multi-tenant cluster
 * [konfigadm](https://github.com/flanksource/konfigadm)
+  "a node instance configuration tool focused on bootstrapping nodes for container based environments"
 
-These are fixes, tweaks and mods to upstream projects:
+These are fixes, tweaks, configurations and mods to upstream projects:
 * [oauth2_proxy](https://github.com/flanksource/oauth2_proxy),
 * [nginx-ingress-controller](https://github.com/flanksource/nginx-ingress-controller)
 
